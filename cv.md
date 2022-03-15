@@ -25,6 +25,7 @@ ________________________
 + JavaScript
 + PHP
 + HTML / CSS
++ Android Development Basics (Java)
 + Linux, Eclipse, VS Code
 + Git Hub
 
