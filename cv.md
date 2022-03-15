@@ -9,6 +9,8 @@ _____________________________________________________________
 ______________________
 ### About
 
+![Alt-my picture](assets\Photo.jpg)
+
 Learning my way through to become a Web Full-Stack Developer, full English proficiency under the hood, happily worked for the World Bank and Ubisoft. 
 
 Passinate about the way things work or trying to make them work.
